@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyGitHubApp_Sbm2</string>
+
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="url">Url</string>
+    <string name="location">Location </string>
+    <string name="repository">Repository </string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="Beranda">Beranda</string>
+    <string name="About">About</string>
+</resources>
